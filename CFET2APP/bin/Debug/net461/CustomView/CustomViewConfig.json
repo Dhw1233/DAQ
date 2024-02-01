@@ -1,0 +1,7 @@
+{
+	"RegularMatches":
+	{
+		"DAQ":"DAQ.json",
+		"CARD":"CARD.json"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"CardType": "NI-Scope",
+	"ResourceName": "PXI1Slot4",
+	"TriggerConfig": {
+		"TriggerType": 0,
+		"TriggerSource": "",
+		"Delay": 0.0,
+		"MasterOrSlave": 2
+	},
+	"ClockConfig": {
+		"SampleMode": 0,
+		"SampleRate": 250000000,
+		"Length": 200000
+	},
+	"ChannelConfig": {
+		"ChannelName": "0,1",
+		"ChannelCount": "2",
+		"MinimumValue": 0.0,
+		"MaximumValue": 3.0
+	},
+	"StartTime": 0.0,
+	"AutoWriteDataToFile": true,
+	"DataFileParentDirectory": "C:\\Data\\ni-scope\\card2",
+	"RemainShotsMax": 300000,
+	"RemainShotsMin": 200000,
+	"Enable": true,
+	"CouplingMode": 0  
+}

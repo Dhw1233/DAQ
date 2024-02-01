@@ -1,0 +1,40 @@
+2023/12/31 00:24:57.854 ResourceThing Info 
+tryinit:customView
+2023/12/31 00:24:58.039 ResourceThing Info 
+tryinit:WsEvent
+2023/12/31 00:24:59.375 ResourceThing Info 
+tryinit:relay
+2023/12/31 00:24:59.375 DynamicLoad Info 
+AddThing:relay
+2023/12/31 00:24:59.375 NancyModule Info 
+NancyTaskRun 
+2023/12/31 00:24:59.391 ResourceThing Info 
+tryinit:root
+2023/12/31 00:24:59.391 Hub Info 
+customView Started.
+2023/12/31 00:24:59.391 Hub Info 
+WsEvent Started.
+2023/12/31 00:24:59.405 Hub Info 
+relay Started.
+2023/12/31 00:24:59.405 Hub Info 
+root Started.
+2023/12/31 00:26:21.591 ResourceThing Info 
+tryinit:customView
+2023/12/31 00:26:21.733 ResourceThing Info 
+tryinit:WsEvent
+2023/12/31 00:26:22.709 ResourceThing Info 
+tryinit:relay
+2023/12/31 00:26:22.709 DynamicLoad Info 
+AddThing:relay
+2023/12/31 00:26:22.720 NancyModule Info 
+NancyTaskRun 
+2023/12/31 00:26:22.720 ResourceThing Info 
+tryinit:root
+2023/12/31 00:26:22.720 Hub Info 
+customView Started.
+2023/12/31 00:26:22.736 Hub Info 
+WsEvent Started.
+2023/12/31 00:26:22.736 Hub Info 
+relay Started.
+2023/12/31 00:26:22.736 Hub Info 
+root Started.

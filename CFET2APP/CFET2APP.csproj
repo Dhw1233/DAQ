@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>net6.0;net461</TargetFrameworks>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.2.0" />
+    <PackageReference Include="CFET2Core" Version="2.1.1" />
+    <PackageReference Include="CommandLineParser" Version="1.9.71" />
+    <PackageReference Include="Jtext103.CFET2.Things.CFET2RelayThing.CFET2Relay" Version="1.0.1" />
+    <PackageReference Include="Jtext103.CFET2.WebsocketEvent.WebsocketEventThing" Version="1.0.5" />
+    <PackageReference Include="MessagePack" Version="2.3.85" />
+    <PackageReference Include="Microsoft.AspNet.Razor" Version="3.2.7" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="3.7.0" />
+    <PackageReference Include="Nancy" Version="2.0.0" />
+    <PackageReference Include="Nancy.Hosting.Self" Version="2.0.0" />
+    <PackageReference Include="Nancy.Viewengines.Razor" Version="2.0.0" />
+    <PackageReference Include="NancyHttpCommunicationModule" Version="1.0.9" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="NLog" Version="4.7.4" />
+    <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="4.7.0" />
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+    <PackageReference Include="WebsocketEventThing" Version="1.0.1" />
+	<PackageReference Include="Websocket" Version="1.0.0" />  
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'netcoreapp3.1'">
+    <PackageReference Include="Microsoft.NETCore.App">
+      <Version>2.2.8</Version>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExampleThing\ExampleThing.csproj" />
+  </ItemGroup>
+
+</Project>

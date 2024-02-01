@@ -1,0 +1,11 @@
+{
+"AliasTable":{
+"start":{"GetPath":"/test/Start","ValueType":"System.Int32","DefaultValue":0},
+"temp":{"GetPath":"/test/Temp","ValueType":"System.Double","DefaultValue":0},
+"charge":{"GetPath":"/test/Charge","ValueType":"System.Int32","DefaultValue":0},
+"arm":{"GetPath":"/test/Arm","ValueType":"System.Int32","DefaultValue":0},
+"sccharge":{"GetPath":"/test/SCCharge","ValueType":"System.Int32","DefaultValue":0},
+"fire":{"GetPath":"/test/Fire","ValueType":"System.Int32","DefaultValue":0},
+"centrifire":{"GetPath":"/test/Centrifire","ValueType":"System.Int32","DefaultValue":0},
+"reset":{"GetPath":"/test/Reset","ValueType":"System.Int32","DefaultValue":0}
+}}

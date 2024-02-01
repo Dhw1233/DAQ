@@ -1,0 +1,10 @@
+{
+"TransExcute":{
+ "goPre1":"MyHub.Set(\"/test/Heat/1\");for (int i = 0; i < 10; i++) { Thread.Sleep(10000);System.Console.WriteLine(i); }",
+ "goPre2":"MyHub.Set(\"/test/Charge/1\");",
+ "goPre3":"MyHub.Set(\"/test/Arm/1\");",
+ "goPre4":"MyHub.Set(\"/test/SCCharge/1\");",
+ "goFire":"MyHub.Set(\"/test/Centrifire/1\");",
+ "Reset":"MyHub.Set(\"/test/Fire/0\");MyHub.Set(\"/test/Reset/0\");MyHub.Set(\"/test/Start/0\");MyHub.Set(\"/test/Heat/0\");MyHub.Set(\"/test/Charge/0\");MyHub.Set(\"/test/Arm/0\");MyHub.Set(\"/test/SCCharge/0\");MyHub.Set(\"/test/Centrifire/0\");"
+}
+}

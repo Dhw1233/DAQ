@@ -1,0 +1,121 @@
+{
+"States":
+[
+	{
+		"StateNo":0, 
+		"StateName":"Init",
+		"DefaultNs":1,
+		"Transitions":
+		[]
+	},
+	{
+		"StateNo":1, 
+		"StateName":"Idle",
+		"DefaultNs":1,
+		"Transitions":
+		[
+			{
+				"TransitionName":"goArming",
+				"ConditonExpr":"(Arm==1) || (Debug==0?GSReal:GS)==12",
+				"NextState":2
+			},
+			{
+				"TransitionName":"goError",
+				"ConditonExpr":"(Debug==0?GSReal:GS)==10 || (Card0==255) || (Card1==255) || (Card2==255)",
+				"NextState":5
+			}
+		]
+	},
+	{
+		"StateNo":2, 
+		"StateName":"Arming",
+		"DefaultNs":2,
+		"Transitions":
+		[
+			{
+				"TransitionName":"goReady",
+				"ConditonExpr":"(Card0==1) && (Card1==1) && (Card2==1)",
+				"NextState":3
+			},
+			{
+				"TransitionName":"goArming",
+				"ConditonExpr":"CurrentSeconds%5==0",
+				"NextState":2
+			},
+			{
+				"TransitionName":"goError",
+				"ConditonExpr":"CurrentSeconds>20 || (Debug==0?GSReal:GS)==10 || (Card0==255) || (Card1==255) || (Card2==255)",
+				"NextState":6
+			}
+		]
+	},
+	{
+		"StateNo":3, 
+		"StateName":"Ready",
+		"DefaultNs":3,
+		"Transitions":
+		[
+			{
+				"TransitionName":"goError",
+				"ConditonExpr":"(Debug==0?GSReal:GS)==10 || (Card0==255) || (Card1==255) || (Card2==255)",
+				"NextState":6
+			},
+			{
+				"TransitionName":"goRunning",
+				"ConditonExpr":"(Card0!=1) && (Card1!=1) && (Card2!=1)",
+				"NextState":4
+			}
+		]
+	},
+	{
+		"StateNo":4, 
+		"StateName":"Running",
+		"DefaultNs":4,
+		"Transitions":
+		[
+			{
+				"TransitionName":"goFinish",
+				"ConditonExpr":"(Card0==0) && (Card1==0) && (Card2==0)",
+				"NextState":5
+			},
+			{
+				"TransitionName":"goError",
+				"ConditonExpr":"(Debug==0?GSReal:GS)==10 || (Card0==255) || (Card1==255) || (Card2==255)",
+				"NextState":6
+			}
+		]
+	},
+	{
+		"StateNo":5, 
+		"StateName":"Finish",
+		"DefaultNs":5,
+		"Transitions":
+		[
+			{
+				"TransitionName":"goIdle",
+				"ConditonExpr":"(Debug==0?GSReal:GS)==1 && CurrentSeconds>5",
+				"NextState":1
+			},
+			{
+				"TransitionName":"goError",
+				"ConditonExpr":"(Debug==0?GSReal:GS)==10 || (Card0==255) || (Card1==255) || (Card2==255)",
+				"NextState":6
+			}
+		]
+	},
+	{
+		"StateNo":6, 
+		"StateName":"Error",
+		"DefaultNs":6,
+		"Transitions":
+		[
+			{
+				"TransitionName":"ResetToIdle",
+				"ConditonExpr":"((Debug==0?GSReal:GS)==9 || Reset==1) && (Card0==0) && (Card1==0) && (Card2==0)",
+				"NextState":1
+			}
+		]
+	}
+],
+"CurrentState":0
+}

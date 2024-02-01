@@ -1,0 +1,56 @@
+2023/12/20 20:45:54.972 ResourceThing Info 
+tryinit:WsEvent
+2023/12/20 20:46:37.146 ResourceThing Info 
+tryinit:WsEvent
+2023/12/20 20:47:20.103 ResourceThing Info 
+tryinit:WsEvent
+2023/12/20 20:47:22.782 ResourceThing Info 
+tryinit:card0
+2023/12/20 20:47:22.782 ResourceThing Info 
+tryinit:card1
+2023/12/20 20:47:22.782 ResourceThing Info 
+tryinit:card2
+2023/12/20 20:47:22.799 ResourceThing Info 
+tryinit:customView
+2023/12/20 20:47:22.799 NancyModule Info 
+NancyTaskRun 
+2023/12/20 20:47:22.840 Hub Info 
+WsEvent Started.
+2023/12/20 20:47:22.842 Hub Info 
+card0 Started.
+2023/12/20 20:47:22.842 Hub Info 
+card1 Started.
+2023/12/20 20:47:22.842 Hub Info 
+card2 Started.
+2023/12/20 20:47:22.842 Hub Info 
+customView Started.
+2023/12/20 20:47:22.842 ResourceThing Info 
+tryinit:root
+2023/12/20 20:47:23.532 NancyModule Info 
+Running on http://localhost:8001/
+2023/12/20 22:35:11.201 ResourceThing Info 
+tryinit:WsEvent
+2023/12/20 22:35:13.955 ResourceThing Info 
+tryinit:card0
+2023/12/20 22:35:13.955 ResourceThing Info 
+tryinit:card1
+2023/12/20 22:35:13.955 ResourceThing Info 
+tryinit:card2
+2023/12/20 22:35:13.970 ResourceThing Info 
+tryinit:customView
+2023/12/20 22:35:13.970 NancyModule Info 
+NancyTaskRun 
+2023/12/20 22:35:14.006 Hub Info 
+WsEvent Started.
+2023/12/20 22:35:14.006 Hub Info 
+card0 Started.
+2023/12/20 22:35:14.006 Hub Info 
+card1 Started.
+2023/12/20 22:35:14.013 Hub Info 
+card2 Started.
+2023/12/20 22:35:14.013 Hub Info 
+customView Started.
+2023/12/20 22:35:14.013 ResourceThing Info 
+tryinit:root
+2023/12/20 22:35:14.708 NancyModule Info 
+Running on http://localhost:8001/

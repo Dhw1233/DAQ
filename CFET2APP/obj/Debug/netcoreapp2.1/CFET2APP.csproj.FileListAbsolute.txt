@@ -1,0 +1,125 @@
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.deps.json
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.json
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.dev.json
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.pdb
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2Core.dll
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\NancyHttpCommunicationModule.dll
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2Core.pdb
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\NancyHttpCommunicationModule.pdb
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csprojAssemblyReference.cache
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfoInputs.cache
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfo.cs
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CoreCompileInputs.cache
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CopyComplete
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.pdb
+C:\Users\10293\Desktop\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.genruntimeconfig.cache
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.deps.json
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.json
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.dev.json
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.pdb
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2Core.dll
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\NancyHttpCommunicationModule.dll
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\CFET2Core.pdb
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\bin\Debug\netcoreapp2.1\NancyHttpCommunicationModule.pdb
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csprojAssemblyReference.cache
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfoInputs.cache
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfo.cs
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CoreCompileInputs.cache
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CopyComplete
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll
+C:\Users\wyx\Desktop\.netStandard\CFET2Core\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2Core\Code\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csprojAssemblyReference.cache
+E:\wfy\code\CFET2Core\Code\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfoInputs.cache
+E:\wfy\code\CFET2Core\Code\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfo.cs
+E:\wfy\code\CFET2Core\Code\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CoreCompileInputs.cache
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.deps.json
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.json
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.dev.json
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\CFET2Core.dll
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\NancyHttpCommunicationModule.dll
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\CFET2Core.pdb
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\NancyHttpCommunicationModule.pdb
+E:\wfy\code\CFET2Core\Code\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CopyComplete
+E:\wfy\code\CFET2Core\Code\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2Core\Code\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2Core\Code\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2Core\Code\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.deps.json
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.json
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.dev.json
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csprojAssemblyReference.cache
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CoreCompileInputs.cache
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfoInputs.cache
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfo.cs
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2ComThing.dll
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2ComThing.pdb
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CopyComplete
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2DeviceThing.dll
+E:\wfy\code\CFET2DeviceCommunicator\CFET2APP\bin\Debug\netcoreapp2.1\CFET2DeviceThing.pdb
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.deps.json
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.json
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.dev.json
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\CFET2StateMachine.dll
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\DynamicStateMachine.dll
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\CFET2StateMachine.pdb
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\DynamicStateMachine.pdb
+E:\wfy\code\CFET2StateMachine\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csprojAssemblyReference.cache
+E:\wfy\code\CFET2StateMachine\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2StateMachine\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CoreCompileInputs.cache
+E:\wfy\code\CFET2StateMachine\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfoInputs.cache
+E:\wfy\code\CFET2StateMachine\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfo.cs
+E:\wfy\code\CFET2StateMachine\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CopyComplete
+E:\wfy\code\CFET2StateMachine\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2StateMachine\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\test.dll
+E:\wfy\code\CFET2StateMachine\CFET2APP\bin\Debug\netcoreapp2.1\test.pdb
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.deps.json
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.json
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.dev.json
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\CFET2Relay.dll
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\ConfigSaveThing.dll
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\CFET2Relay.pdb
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\bin\Debug\netcoreapp2.1\ConfigSaveThing.pdb
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csprojAssemblyReference.cache
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CoreCompileInputs.cache
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfoInputs.cache
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfo.cs
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CopyComplete
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2StateMachine - 副本\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.deps.json
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.json
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.runtimeconfig.dev.json
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll.config
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CoreCompileInputs.cache
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfoInputs.cache
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.AssemblyInfo.cs
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.dll
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.pdb
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csprojAssemblyReference.cache
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\websocket.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\WebsocketEventThing.dll
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\netcoreapp2.1\CFET2APP.csproj.CopyComplete
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\MessagePack.Annotations.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\netcoreapp2.1\MessagePack.dll

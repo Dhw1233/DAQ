@@ -1,0 +1,5 @@
+E:\整理repo\jtext103_cfet2app\ExampleThing\bin\Release\netstandard2.0\linux-x64\publish\ExampleThing.dll
+E:\整理repo\jtext103_cfet2app\ExampleThing\bin\Release\netstandard2.0\linux-x64\publish\ExampleThing.deps.json
+E:\整理repo\jtext103_cfet2app\ExampleThing\bin\Release\netstandard2.0\linux-x64\publish\ExampleThing.pdb
+E:\整理repo\jtext103_cfet2app\ExampleThing\bin\Release\netstandard2.0\linux-x64\publish\CFET2Core.dll
+E:\整理repo\jtext103_cfet2app\ExampleThing\bin\Release\netstandard2.0\linux-x64\publish\Newtonsoft.Json.dll

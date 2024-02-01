@@ -1,0 +1,11 @@
+# ignore vs
+
+*.suo
+.vs/
+*.~vsd*
+*.cache
+*.editorconfig
+
+*.csproj.nuget.dgspec.json
+*.csproj.nuget.g.props
+**/project.assets.json

@@ -1,0 +1,6 @@
+2024/01/20 00:40:11.566 ResourceThing Info 
+tryinit:customView
+2024/01/20 00:44:34.558 ResourceThing Info 
+tryinit:customView
+2024/01/20 00:48:32.588 ResourceThing Info 
+tryinit:customView

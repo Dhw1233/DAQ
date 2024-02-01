@@ -1,0 +1,4 @@
+2023/12/31 12:15:05.084 ResourceThing Info 
+tryinit:customView
+2023/12/31 12:15:05.211 ResourceThing Info 
+tryinit:WsEvent

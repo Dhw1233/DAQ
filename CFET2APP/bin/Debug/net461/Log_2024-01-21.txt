@@ -1,0 +1,2 @@
+2024/01/21 00:19:56.626 ResourceThing Info 
+tryinit:customView

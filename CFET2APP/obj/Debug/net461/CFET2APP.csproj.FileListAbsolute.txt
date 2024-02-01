@@ -1,0 +1,1647 @@
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\CFET2APP.exe
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Autofac.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\CommandLine.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\MessagePack.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Nancy.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\NLog.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Buffers.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Memory.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\netstandard.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.AppContext.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Collections.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Console.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Globalization.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Linq.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Reflection.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Threading.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\CFET2Core.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\websocket.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\CFET2Core.pdb
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.pdb
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.exe
+E:\wfy\code\CFET2Core_update\Code\CFET2APP\obj\Debug\net461\CFET2APP.pdb
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\CFET2APP.exe
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Autofac.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\CFET2Core.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\CommandLine.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Nancy.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\NLog.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Buffers.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Memory.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\netstandard.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.AppContext.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Console.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Globalization.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Linq.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Reflection.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\MessagePack.dll
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.exe
+E:\wfy\code\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.pdb
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.pdb
+E:\wfy\code\CFET2APP\CFET2APP\bin\Debug\net461\websocket.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\CFET2APP.exe
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Autofac.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\CFET2Core.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\CommandLine.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\MessagePack.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Nancy.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\NLog.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Buffers.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Memory.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\websocket.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\netstandard.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.AppContext.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Console.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Globalization.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Linq.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Reflection.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.exe
+E:\wfy\wfygitlab\CFET2APP\CFET2APP\obj\Debug\net461\CFET2APP.pdb
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\CFET2APP.exe
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Autofac.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\CFET2Core.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\CommandLine.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\MessagePack.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Nancy.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\NLog.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Buffers.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Memory.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\websocket.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\netstandard.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.AppContext.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Collections.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Console.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Globalization.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Linq.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Reflection.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Threading.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.exe
+E:\jtext103_cfet2app-master (1)\jtext103_cfet2app-master\CFET2APP\obj\Debug\net461\CFET2APP.pdb
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Autofac.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2Core.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CommandLine.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NLog.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Buffers.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Memory.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\websocket.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\netstandard.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.AppContext.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Console.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe
+E:\整理repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.pdb
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.dll
+E:\整理repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.pdb
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Autofac.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2Core.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CommandLine.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NLog.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Buffers.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Memory.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\websocket.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\netstandard.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.AppContext.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Console.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.dll
+D:\ing-repo\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.pdb
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe
+D:\ing-repo\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.pdb
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\CFET2APP.exe
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Autofac.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\CFET2Core.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\CommandLine.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\MessagePack.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Nancy.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\NLog.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Buffers.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Memory.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\websocket.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\netstandard.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.AppContext.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Collections.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Console.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Globalization.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Linq.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Reflection.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Threading.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\ExampleThing.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\bin\Debug\net461\ExampleThing.pdb
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.exe
+G:\2311\10_mqtt\1130\jtext103_cfet2app_2\CFET2APP\obj\Debug\net461\CFET2APP.pdb
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Autofac.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2Core.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CommandLine.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2Relay.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NLog.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Buffers.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Memory.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\websocket.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\netstandard.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.AppContext.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Console.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.dll
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.pdb
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe
+G:\2311\10_mqtt\1130\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.pdb
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Autofac.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2Core.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CommandLine.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2Relay.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NLog.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Buffers.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Memory.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\websocket.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\netstandard.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.AppContext.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Console.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.dll
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.pdb
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe
+C:\Users\98286\Desktop\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.pdb
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe.config
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.exe
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2APP.pdb
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Autofac.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2Core.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CommandLine.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\CFET2Relay.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\WebsocketEventThing.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\MessagePack.Annotations.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Web.Razor.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.Formatting.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.Hosting.Self.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Nancy.ViewEngines.Razor.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NancyHttpCommunicationModule.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Newtonsoft.Json.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\NLog.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Buffers.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Immutable.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.PerformanceCounter.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Memory.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Numerics.Vectors.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Metadata.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ValueTuple.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\netstandard.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.AppContext.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Concurrent.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.NonGeneric.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Collections.Specialized.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.Primitives.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Console.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Data.Common.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Contracts.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Debug.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Process.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tools.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Diagnostics.Tracing.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Drawing.Primitives.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Dynamic.Runtime.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Calendars.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Globalization.Extensions.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.IsolatedStorage.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.Pipes.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Expressions.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Parallel.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Linq.Queryable.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Http.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NameResolution.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.NetworkInformation.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Ping.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Primitives.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Requests.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Security.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.Sockets.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.Client.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Net.WebSockets.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.ObjectModel.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Extensions.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Reflection.Primitives.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Reader.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.ResourceManager.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Resources.Writer.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Extensions.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Handles.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Numerics.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Claims.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.Principal.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Security.SecureString.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Text.RegularExpressions.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Overlapped.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Thread.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.ThreadPool.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Threading.Timer.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.ReaderWriter.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XDocument.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlDocument.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XmlSerializer.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.dll
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\bin\Debug\net461\ExampleThing.pdb
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.AssemblyReference.cache
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.SuggestedBindingRedirects.cache
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe.config
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfoInputs.cache
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.AssemblyInfo.cs
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CoreCompileInputs.cache
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.csproj.CopyComplete
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.exe
+D:\大创：电力设备检测\jtext103_cfet2app\CFET2APP\obj\Debug\net461\CFET2APP.pdb

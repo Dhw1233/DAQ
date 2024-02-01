@@ -1,0 +1,30 @@
+{
+  "ResourceName": "bm1",
+  "CardType": "con",
+  "TriggerConfig": {
+    "TriggerType": 0,
+    "TriggerSource": "",
+    "Delay": 0.0,
+    "MasterOrSlave": 1
+  },
+  "ClockConfig": {
+    "SampleMode": 0,
+    "SampleRate": 800,
+    "Length": 4096
+  },
+  "ChannelConfig": {
+    "ChannelName": "0,1,2",
+    "ChannelCount": 3,
+    "MinimumValue": 0.0,
+    "MaximumValue": 10.0
+  },
+  "WaitTime": 6000,
+  "IP":"10.1.1.10:8000",
+  "SendInterval":50,
+  "StartTime": 0.0,
+  "AutoWriteDataToFile": true,
+  "DataFileParentDirectory": "D:\\Data\\bm1\\card1",
+  "RemainShotsMax": 30,
+  "RemainShotsMin": 20,
+  "Enable": true
+}

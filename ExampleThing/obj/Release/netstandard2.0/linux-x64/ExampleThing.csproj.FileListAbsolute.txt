@@ -1,0 +1,10 @@
+E:\整理repo\jtext103_cfet2app\ExampleThing\bin\Release\netstandard2.0\linux-x64\ExampleThing.deps.json
+E:\整理repo\jtext103_cfet2app\ExampleThing\bin\Release\netstandard2.0\linux-x64\ExampleThing.dll
+E:\整理repo\jtext103_cfet2app\ExampleThing\bin\Release\netstandard2.0\linux-x64\ExampleThing.pdb
+E:\整理repo\jtext103_cfet2app\ExampleThing\obj\Release\netstandard2.0\linux-x64\ExampleThing.csproj.AssemblyReference.cache
+E:\整理repo\jtext103_cfet2app\ExampleThing\obj\Release\netstandard2.0\linux-x64\ExampleThing.GeneratedMSBuildEditorConfig.editorconfig
+E:\整理repo\jtext103_cfet2app\ExampleThing\obj\Release\netstandard2.0\linux-x64\ExampleThing.AssemblyInfoInputs.cache
+E:\整理repo\jtext103_cfet2app\ExampleThing\obj\Release\netstandard2.0\linux-x64\ExampleThing.AssemblyInfo.cs
+E:\整理repo\jtext103_cfet2app\ExampleThing\obj\Release\netstandard2.0\linux-x64\ExampleThing.csproj.CoreCompileInputs.cache
+E:\整理repo\jtext103_cfet2app\ExampleThing\obj\Release\netstandard2.0\linux-x64\ExampleThing.dll
+E:\整理repo\jtext103_cfet2app\ExampleThing\obj\Release\netstandard2.0\linux-x64\ExampleThing.pdb

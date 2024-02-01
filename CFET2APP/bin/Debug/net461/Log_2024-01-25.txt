@@ -1,0 +1,72 @@
+2024/01/25 00:53:31.895 ResourceThing Info 
+tryinit:customView
+2024/01/25 00:54:53.344 ResourceThing Info 
+tryinit:customView
+2024/01/25 01:31:21.658 ResourceThing Info 
+tryinit:customView
+2024/01/25 01:31:21.736 ResourceThing Info 
+tryinit:WsEvent
+2024/01/25 01:31:21.742 ResourceThing Info 
+tryinit:ExampleThing
+2024/01/25 01:31:21.742 NancyModule Info 
+NancyTaskRun 
+2024/01/25 01:31:21.742 ResourceThing Info 
+tryinit:root
+2024/01/25 01:31:21.742 Hub Info 
+customView Started.
+2024/01/25 01:31:21.742 Hub Info 
+WsEvent Started.
+2024/01/25 01:31:21.757 Hub Info 
+ExampleThing Started.
+2024/01/25 01:31:21.757 Hub Info 
+root Started.
+2024/01/25 01:31:23.176 NancyModule Info 
+Running on http://localhost:8001/
+2024/01/25 01:31:43.160 ResourceThing Info 
+tryinit:customView
+2024/01/25 01:31:43.237 ResourceThing Info 
+tryinit:WsEvent
+2024/01/25 01:31:43.244 ResourceThing Info 
+tryinit:ExampleThing
+2024/01/25 01:31:43.244 NancyModule Info 
+NancyTaskRun 
+2024/01/25 01:31:43.244 ResourceThing Info 
+tryinit:root
+2024/01/25 01:31:43.244 Hub Info 
+customView Started.
+2024/01/25 01:31:43.244 Hub Info 
+WsEvent Started.
+2024/01/25 01:31:43.258 Hub Info 
+ExampleThing Started.
+2024/01/25 01:31:43.258 Hub Info 
+root Started.
+2024/01/25 01:31:44.455 NancyModule Info 
+Running on http://localhost:8001/
+2024/01/25 01:32:10.250 ResourceThing Info 
+tryinit:customView
+2024/01/25 01:39:24.048 ResourceThing Info 
+tryinit:customView
+2024/01/25 01:39:34.817 ResourceThing Info 
+tryinit:customView
+2024/01/25 01:40:31.754 ResourceThing Info 
+tryinit:customView
+2024/01/25 01:42:24.608 ResourceThing Info 
+tryinit:customView
+2024/01/25 01:42:24.684 ResourceThing Info 
+tryinit:WsEvent
+2024/01/25 01:42:24.684 ResourceThing Info 
+tryinit:ExampleThing
+2024/01/25 01:42:24.684 NancyModule Info 
+NancyTaskRun 
+2024/01/25 01:42:24.697 ResourceThing Info 
+tryinit:root
+2024/01/25 01:42:24.697 Hub Info 
+customView Started.
+2024/01/25 01:42:24.697 Hub Info 
+WsEvent Started.
+2024/01/25 01:42:24.697 Hub Info 
+ExampleThing Started.
+2024/01/25 01:42:24.697 Hub Info 
+root Started.
+2024/01/25 01:42:25.935 NancyModule Info 
+Running on http://localhost:8001/

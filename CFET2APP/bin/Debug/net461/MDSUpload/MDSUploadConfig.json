@@ -1,0 +1,33 @@
+{
+	"MdsShot": 0,
+	"ServerHost": "192.168.0.3",
+	"ServerTree": "hfrc",
+	"ShotInfos": {
+		"C:\\Data\\ni-6\\Dev1\\189\\data": [{
+			"Channel": 0,
+			"Tag": "PDA_P1_01"
+		}, {
+			"Channel": 1,
+			"Tag": "PDA_P1_02"
+		}, {
+			"Channel": 2,
+			"Tag": "PDA_P1_03"
+		}, {
+			"Channel": 3,
+			"Tag": "PDA_P1_04"
+		}],
+		"C:\\Data\\ni-6\\Dev2\\190\\data": [{
+			"Channel": 0,
+			"Tag": "PDA_P2_01"
+		}, {
+			"Channel": 1,
+			"Tag": "PDA_P2_02"
+		}, {
+			"Channel": 2,
+			"Tag": "PDA_P2_03"
+		}, {
+			"Channel": 3,
+			"Tag": "PDA_P2_04"
+		}]
+	}
+}

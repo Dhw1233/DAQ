@@ -1,0 +1,80 @@
+2024/01/27 22:24:12.676 ResourceThing Info 
+tryinit:customView
+2024/01/27 22:24:12.790 ResourceThing Info 
+tryinit:WsEvent
+2024/01/27 22:24:12.799 ResourceThing Info 
+tryinit:ExampleThing
+2024/01/27 22:24:12.799 NancyModule Info 
+NancyTaskRun 
+2024/01/27 22:24:12.799 ResourceThing Info 
+tryinit:root
+2024/01/27 22:24:12.799 Hub Info 
+customView Started.
+2024/01/27 22:24:12.814 Hub Info 
+WsEvent Started.
+2024/01/27 22:24:12.814 Hub Info 
+ExampleThing Started.
+2024/01/27 22:24:12.814 Hub Info 
+root Started.
+2024/01/27 22:24:14.593 NancyModule Info 
+Running on http://localhost:8001/
+2024/01/27 22:28:38.706 ResourceThing Info 
+tryinit:customView
+2024/01/27 22:28:38.829 ResourceThing Info 
+tryinit:WsEvent
+2024/01/27 22:28:38.829 ResourceThing Info 
+tryinit:ExampleThing
+2024/01/27 22:28:38.842 NancyModule Info 
+NancyTaskRun 
+2024/01/27 22:28:38.842 ResourceThing Info 
+tryinit:root
+2024/01/27 22:28:38.858 Hub Info 
+customView Started.
+2024/01/27 22:28:38.858 Hub Info 
+WsEvent Started.
+2024/01/27 22:28:38.858 Hub Info 
+ExampleThing Started.
+2024/01/27 22:28:38.858 Hub Info 
+root Started.
+2024/01/27 22:28:40.913 NancyModule Info 
+Running on http://localhost:8001/
+2024/01/27 23:00:56.260 ResourceThing Info 
+tryinit:customView
+2024/01/27 23:00:56.348 ResourceThing Info 
+tryinit:WsEvent
+2024/01/27 23:00:56.348 ResourceThing Info 
+tryinit:ExampleThing
+2024/01/27 23:00:56.365 NancyModule Info 
+NancyTaskRun 
+2024/01/27 23:00:56.365 ResourceThing Info 
+tryinit:root
+2024/01/27 23:00:56.365 Hub Info 
+customView Started.
+2024/01/27 23:00:56.365 Hub Info 
+WsEvent Started.
+2024/01/27 23:00:56.381 Hub Info 
+ExampleThing Started.
+2024/01/27 23:00:56.381 Hub Info 
+root Started.
+2024/01/27 23:00:57.815 NancyModule Info 
+Running on http://localhost:8001/
+2024/01/27 23:16:00.153 ResourceThing Info 
+tryinit:customView
+2024/01/27 23:16:00.281 ResourceThing Info 
+tryinit:WsEvent
+2024/01/27 23:16:00.281 ResourceThing Info 
+tryinit:ExampleThing
+2024/01/27 23:16:00.297 NancyModule Info 
+NancyTaskRun 
+2024/01/27 23:16:00.297 ResourceThing Info 
+tryinit:root
+2024/01/27 23:16:00.297 Hub Info 
+customView Started.
+2024/01/27 23:16:00.313 Hub Info 
+WsEvent Started.
+2024/01/27 23:16:00.313 Hub Info 
+ExampleThing Started.
+2024/01/27 23:16:00.313 Hub Info 
+root Started.
+2024/01/27 23:16:02.270 NancyModule Info 
+Running on http://localhost:8001/

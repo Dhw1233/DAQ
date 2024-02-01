@@ -1,0 +1,92 @@
+2023/12/30 13:29:26.621 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 13:29:29.765 ResourceThing Info 
+tryinit:card0
+2023/12/30 13:29:29.765 ResourceThing Info 
+tryinit:card1
+2023/12/30 13:29:29.779 ResourceThing Info 
+tryinit:customView
+2023/12/30 13:29:29.779 NancyModule Info 
+NancyTaskRun 
+2023/12/30 13:29:29.818 Hub Info 
+WsEvent Started.
+2023/12/30 13:29:29.818 Hub Info 
+card0 Started.
+2023/12/30 13:29:29.818 Hub Info 
+card1 Started.
+2023/12/30 13:29:29.818 Hub Info 
+customView Started.
+2023/12/30 13:29:29.827 ResourceThing Info 
+tryinit:root
+2023/12/30 13:29:30.567 NancyModule Info 
+Running on http://localhost:8001/
+2023/12/30 13:33:55.632 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 13:33:58.652 ResourceThing Info 
+tryinit:card0
+2023/12/30 13:34:16.968 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 13:34:20.019 ResourceThing Info 
+tryinit:card0
+2023/12/30 13:35:54.504 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 13:35:57.510 ResourceThing Info 
+tryinit:card0
+2023/12/30 17:01:37.163 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 17:01:40.099 ResourceThing Info 
+tryinit:card0
+2023/12/30 17:01:40.099 ResourceThing Info 
+tryinit:card1
+2023/12/30 17:01:40.113 ResourceThing Info 
+tryinit:customView
+2023/12/30 17:01:40.113 NancyModule Info 
+NancyTaskRun 
+2023/12/30 17:01:40.155 Hub Info 
+WsEvent Started.
+2023/12/30 17:01:40.155 Hub Info 
+card0 Started.
+2023/12/30 17:01:40.155 Hub Info 
+card1 Started.
+2023/12/30 17:01:40.155 Hub Info 
+customView Started.
+2023/12/30 17:01:40.155 ResourceThing Info 
+tryinit:root
+2023/12/30 17:01:40.876 NancyModule Info 
+Running on http://localhost:8001/
+2023/12/30 17:03:17.612 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 17:03:20.516 ResourceThing Info 
+tryinit:card1
+2023/12/30 17:03:20.516 ResourceThing Info 
+tryinit:customView
+2023/12/30 17:03:20.529 NancyModule Info 
+NancyTaskRun 
+2023/12/30 17:03:20.564 Hub Info 
+WsEvent Started.
+2023/12/30 17:03:20.564 Hub Info 
+card1 Started.
+2023/12/30 17:03:20.564 Hub Info 
+customView Started.
+2023/12/30 17:03:20.564 ResourceThing Info 
+tryinit:root
+2023/12/30 17:03:21.279 NancyModule Info 
+Running on http://localhost:8001/
+2023/12/30 17:06:31.691 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 17:07:32.747 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 17:08:16.393 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 18:38:31.215 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 18:40:27.267 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 18:48:19.022 ResourceThing Info 
+tryinit:customView
+2023/12/30 18:48:19.109 ResourceThing Info 
+tryinit:WsEvent
+2023/12/30 18:50:02.966 ResourceThing Info 
+tryinit:customView
+2023/12/30 18:50:03.125 ResourceThing Info 
+tryinit:WsEvent

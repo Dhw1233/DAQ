@@ -1,0 +1,27 @@
+{
+	"CardType": "NI-6 series",
+	"TriggerConfig": {
+		"TriggerType": 0,
+		"TriggerSource": "/Dev1/ai/StartTrigger",
+		"Delay": 0.0,
+		"MasterOrSlave": 2
+	},
+	"ClockConfig": {
+		"SampleMode": 0,
+		"SampleRate": 25000,
+		"Length": 250000
+	},
+	"ChannelConfig": {
+		"ChannelName": "Dev5/ai0:15",
+		"ChannelCount": "16",
+		"MinimumValue": -0.0,
+		"MaximumValue": 5.0
+	},
+	"StartTime": 0.0,
+	"AutoWriteDataToFile": true,
+	"DataFileParentDirectory": "C:\\Data\\ni-6\\Dev5",
+	"RemainShotsMax": 3000,
+	"RemainShotsMin": 2000,
+	"Enable": true,
+	"CouplingMode": 0
+}

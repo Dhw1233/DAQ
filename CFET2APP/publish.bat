@@ -1,0 +1,1 @@
+dotnet publish -f net6.0 -r arm64 --configuration Release --no-self-contained

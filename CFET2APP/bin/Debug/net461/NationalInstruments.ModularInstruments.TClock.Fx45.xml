@@ -1,0 +1,1460 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NationalInstruments.ModularInstruments.TClock.Fx45</name>
+    </assembly>
+    <members>
+        <member name="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize">
+            <summary>
+            Represents a modular instruments device that can be synchronized.
+            </summary>
+            <threadsafety safety="safe"/>
+            <remarks>
+            Contains properties to synchronize modular instruments devices.
+            </remarks>
+            <lastupdated>9/16/2016 8:47:11 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> class.
+            </summary>
+            <lastupdated>10/5/2006 11:30:40 AM</lastupdated>
+            <updatedby>NI</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.#ctor(NationalInstruments.ModularInstruments.ITClockSynchronizableDevice)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> class
+            with the specified <format type="monospace">ITClockSynchronizable</format> device.
+            </summary>
+            <param name="device">
+            Specifies an <format type="monospace">ITClockSynchronizable</format>  device.
+            </param>
+            <exception cref="T:System.ArgumentNullException">
+            Thrown when the device object is <see langword="null"/>.
+            </exception>
+            <lastupdated>9/16/2016 8:49:42 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.Device">
+            <summary>
+            Gets or sets the <format type="monospace">ITClockSynchronizable</format>  device that the
+            <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object represents.
+            </summary>
+            <value>
+            An <format type="monospace">ITClockSynchronizable</format>  object that represents the Modular Instruments device
+            connected to the system.
+            </value>
+            <exception cref="T:System.InvalidOperationException">
+            Valid <format type="monospace">ITClockSynchronizable</format>  device has not been passed.
+            </exception>
+            <lastupdated>9/16/2016 8:47:17 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SampleClockDelay">
+            <summary>
+            Gets or sets the delay, in seconds.
+            </summary>
+            <remarks>
+            This delay is applied to the session sample clock relative to the
+            other synchronized sessions. During synchronization, the driver aligns the sample clocks
+            on the synchronized devices. To delay the sample clocks, set this attribute before
+            calling <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Synchronize"/>.
+            </remarks>
+            <value>
+            Between minus one and plus one period of the sample clock.
+            <para>
+            One sample clock period is equal to (1/<format type="italics">Sample Clock Rate</format>). For example, for a session with sample
+            rate of 100 MS/s, you can specify sample clock delays between -10.0 ns and +10.0 ns.
+            </para>
+             <para>
+            The default value is 0.
+            </para>
+            </value>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/>  object.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format>  object that is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object
+            has been disposed.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Cannot access the property before the session is opened.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <lastupdated>9/16/2016 8:47:38 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.ExportedSyncPulseOutputTerminal">
+            <summary>
+            Gets or sets the destination of the sync pulse. Typically used in a multi-chassis
+            system.
+            </summary>
+            <value>
+             <para> Valid values are as follows: </para><list type="bullet">
+              <item>
+               <description>
+            An empty string, indicating that the signal is not exported.
+            </description>
+              </item>
+              <item>
+               <description>
+            For PXI devices, "<format type="monospace">PXI_Trig0</format>" through "<format type="monospace">PXI_Trig7</format>" and device-specific settings.
+            </description>
+              </item>
+              <item>
+               <description>
+            For PCI devices, "<format type="monospace">RTSI_0</format>" through "<format type="monospace">RTSI_7</format>" and device-specific settings. 
+            </description>
+              </item>
+             </list>
+             <para>
+                   The default value is an empty string.
+                   </para>
+            </value>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>  object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/>  object.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Cannot access the property before the session is opened.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format> object that is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object
+            has been disposed.
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            The value being set on the property is <see langword="null"/>.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <remarks>
+             <para>
+                     Examples of device-specific settings:
+                </para>
+             <list type="bullet">
+              <item>
+               <description>
+            NI PXI-5122 supports "<format type="monospace">PFI0</format>" and "<format type="monospace">PFI1</format>".
+            </description>
+              </item>
+              <item>
+               <description>
+            NI PXI-5421 supports "<format type="monospace">PFI0</format>", "<format type="monospace">PFI1</format>", "<format type="monospace">PFI4</format>", and "<format type="monospace">PFI5</format>".
+            </description>
+              </item>
+              <item>
+               <description>
+            NI PXI-6551/6552 supports "<format type="monospace">PFI0</format>", "<format type="monospace">PFI1</format>", "<format type="monospace">PFI2</format>", and "<format type="monospace">PFI3</format>".
+            </description>
+              </item>
+             </list>
+            </remarks>
+            <lastupdated>9/16/2016 8:47:19 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SyncPulseClockSource">
+            <summary>
+            Gets or sets the sync pulse clock source.
+            </summary>
+            <remarks>
+            This attribute is typically used to synchronize PCI
+            devices when you want to control <format type="monospace">RTSI 7</format> yourself. Make sure that a 10 MHz clock is
+            driven onto <format type="monospace">RTSI 7</format>.
+            </remarks>
+            <value>
+             <para> Valid values are as follows:</para>
+             <list type="bullet">
+              <item>
+               <description>
+            For PXI devices, "<format type="monospace">PXI_CLK10</format>" and "<format type="monospace">None</format>". </description>
+              </item>
+              <item>
+               <description>
+            For PCI devices, "<format type="monospace">RTSI_7</format>" and "<format type="monospace">None</format>".
+            </description>
+              </item>
+             </list>
+             <para>
+                         "<format type="monospace">None</format>" directs the <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Synchronize"/> method to create the necessary routes. For PCI, one of the
+            synchronized devices drives a 10 MHz clock on <format type="monospace">RTSI_7</format> unless that line is already being driven.
+                   </para>
+            </value>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format>  object that is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object
+            has been disposed.
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            The value being set on the property is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Cannot access the property before the session is opened.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <lastupdated>9/16/2016 8:49:35 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SyncPulseSource">
+            <summary>
+            Gets or sets the sync pulse source.
+            </summary>
+            <remarks>
+            This attribute is most often used when synchronizing
+            a multi-chassis system.
+            </remarks>
+            <value>
+             <para> Valid values are as follows: </para>
+             <list type="number">
+              <item>
+               <description>
+            An empty string.
+            </description>
+              </item>
+              <item>
+               <description>
+            For PXI devices, "<format type="monospace">PXI_Trig0</format>" through "<format type="monospace">PXI_Trig7</format>" and device-specific settings.
+            </description>
+              </item>
+              <item>
+               <description>
+            For PCI devices,  "<format type="monospace">RTSI_0</format>" through "<format type="monospace">RTSI_7</format>" and device-specific settings.
+            </description>
+              </item>
+             </list>
+             <para>
+            The default value is an empty string. This default value directs the <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Synchronize"/> method  to set this attribute when
+            all the synchronized devices are in one PXI chassis. To synchronize a multi-chassis system, you must set
+            this attribute before calling <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Synchronize"/>.
+            </para>
+            </value>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/>  object.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format>  object that is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object
+            has been disposed.
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            The value being set on the property is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Cannot access the property before the session is opened.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <remarks>
+             <para>
+              <format type="bold"> Examples of device-specific settings: </format>
+             </para>
+             <para>
+              <list type="bullet">
+               <item>
+                <description>
+            NI PXI-5122 supports "<format type="monospace">PFI0</format>" and "<format type="monospace">PFI1</format>"
+            </description>
+               </item>
+               <item>
+                <description>
+            NI PXI-5421 supports "<format type="monospace">PFI0</format>", "<format type="monospace">PFI1</format>", "<format type="monospace">PFI2</format>", and "<format type="monospace">PFI3</format>"
+            </description>
+               </item>
+               <item>
+                <description>
+            NI PXI-6551/6552 supports "<format type="monospace">PFI0</format>", "<format type="monospace">PFI1</format>", "<format type="monospace">PFI2</format>", and "<format type="monospace">PFI3</format>"
+            </description>
+               </item>
+              </list>
+             </para>
+            </remarks>
+            <lastupdated>9/16/2016 8:49:39 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.StartTriggerMaster">
+            <summary>
+            Gets or sets the start trigger master session.
+            </summary>
+            <value>
+            An <format type="monospace">ITClockSynchronizable</format>  object that represents a modular instrument connected to the system.
+            </value>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/>  object.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format>  object that is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object
+            has been disposed.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            The value being set on the property is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Cannot access the property before the session is opened.
+            </exception>
+            <lastupdated>9/16/2016 8:47:43 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.PauseTriggerMaster">
+            <summary>
+            Gets or sets the pause trigger master session.
+            </summary>
+            <value>
+            An <format type="monospace">ITClockSynchronizable</format> object that represents a modular instrument
+            connected to the system.
+            </value>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>  object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/>  object.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format> object that is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object
+            has been disposed.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            The value being set on the property is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Cannot access the property before the session is opened.
+            </exception>
+            <lastupdated>9/16/2016 8:47:33 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.ReferenceTriggerMaster">
+            <summary>
+            Gets or sets the reference trigger master session.
+            </summary>
+            <value>
+            An <format type="monospace">ITClockSynchronizable</format>  object that represents a modular instrument
+            connected to the system.
+            </value>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format>  object that is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object
+            has been disposed.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            The value being set on the property is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Cannot access the property before the session is opened.
+            </exception>
+            <remarks>
+            For external triggers, the master session is the session configured to receive an external trigger. If no trigger is configured or using software triggers, the master session is the session that generates the trigger.
+            </remarks>
+            <lastupdated>9/16/2016 8:47:35 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SequencerFlagMaster">
+            <summary>
+            Gets or sets the sequencer flag master session.
+            </summary>
+            <value>
+            An <format type="monospace">ITClockSynchronizable</format>  object that represents a modular instrument
+            connected to the system.
+            </value>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format>  object that is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>  object
+            has been disposed.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            The value being set on the property is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Cannot access the property before the session is opened.
+            </exception>
+            <lastupdated>9/16/2016 8:47:40 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.GetTClkActualPeriod">
+            <summary>
+            Gets the computed TClk period.
+            </summary>
+            <value>
+            Returns a <see cref="T:System.Double"></see> representing the computed TClk period.
+            </value>
+            <lastupdated>9/16/2016 8:47:25 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.TClockActualPeriod">
+            <summary>
+            Gets the computed TClk period.
+            </summary>
+            <value>
+            Returns a <see cref="T:System.Double"></see> representing the computed TClk period.
+            </value>
+            <lastupdated>9/16/2016 8:49:40 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.ExportedTClkOutputTerminal">
+            <summary>
+            Gets or sets the destination for the TClk signal of the device.
+            </summary>
+            <value>
+            Specifies a <see cref="T:System.String"></see> representing the destination for the TClk signal of the device.
+            </value>
+            <lastupdated>9/16/2016 8:47:22 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.ExportedTClockOutputTerminal">
+            <summary>
+            Gets or sets the destination for the TClk signal of the device.
+            </summary>
+            <value>
+            Specifies a <see cref="T:System.String"></see> representing the destination for the TClk signal of the device.
+            </value>
+            <lastupdated>9/16/2016 8:47:24 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SyncPulseSenderSyncPulseSource">
+            <summary>
+            Gets or sets the the external sync pulse source of the sync pulse sender.
+            </summary>
+            <remarks>
+            You can use this source to synchronize the sync pulse sender with an external non-TClk event.
+            </remarks>
+            <value>
+             <para> Valid values are as follows:</para>
+             <list type="bullet">
+              <item>
+               <description>
+            For PXI devices, "<format type="monospace">PXI_Trig0</format>" through "<format type="monospace">PXI_Trig7</format>" and device-specific settings.
+            </description>
+              </item>
+              <item>
+               <term>
+               </term>
+               <description>
+            For PCI devices, "<format type="monospace">RTSI_0</format>" through "<format type="monospace">RTSI_7</format>" and device-specific settings.
+            </description>
+              </item>
+             </list><para> The default value is an empty string. An empty string indicates that the signal is not exported.
+            </para>
+            </value>
+            <lastupdated>9/16/2016 8:49:38 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.GetScriptTriggerMaster(System.String)">
+            <summary>
+            Gets the script trigger master session.
+            </summary>
+            <param name="channelName">
+            Valid values for the <paramref name="channelName"/> are
+             "<format type="monospace">scriptTrigger0</format>", "<format type="monospace">scriptTrigger1</format>",
+             "<format type="monospace">scriptTrigger2</format>", and
+            "<format type="monospace">scriptTrigger3</format>".
+            An empty string is treated as "<format type="monospace">scriptTrigger0</format>".
+            </param>
+            <returns>
+            Returns an <format type="monospace">ITClockSynchronizable</format>  object that represents a modular instrument connected to the system.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="channelName"/> cannot be <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/>  object.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format>  object that is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>  object
+            has been disposed.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Cannot call this method before the session is opened.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <lastupdated>9/16/2016 8:49:43 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SetScriptTriggerMaster(System.String,NationalInstruments.ModularInstruments.ITClockSynchronizableDevice)">
+            <summary>
+            Sets the script trigger master session.
+            </summary>
+            <param name="channelName">
+            Valid values for the <paramref name="channelName"/> are
+             "<format type="monospace">scriptTrigger0</format>", "<format type="monospace">scriptTrigger1</format>",
+             "<format type="monospace">scriptTrigger2</format>", and
+            "<format type="monospace">scriptTrigger3</format>".
+            An empty string is treated as "<format type="monospace">scriptTrigger0</format>".
+            </param>
+            <param name="scriptTriggerMaster">
+            An <format type="monospace">ITClockSynchronizable</format>  object that represents a modular instrument
+            connected to the system.
+            </param>
+            <exception cref="T:System.InvalidOperationException">
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object does not belong to a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/>  object.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The <format type="monospace">ITClockSynchronizable</format>  object that  is contained in the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object
+            has been disposed.
+            </exception>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            The value being set on the property is <see langword="null"/>.
+            </exception>
+            <lastupdated>9/16/2016 8:49:46 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.GetTClockMeasurementForExternalSyncPulse">
+            <exclude/>
+            <lastupdated>9/16/2016 8:49:45 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.AdjustmentType">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:43 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="F:NationalInstruments.ModularInstruments.SystemServices.TimingServices.AdjustmentType.Auto">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:44 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="F:NationalInstruments.ModularInstruments.SystemServices.TimingServices.AdjustmentType.TClockDivisor">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:46 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="F:NationalInstruments.ModularInstruments.SystemServices.TimingServices.AdjustmentType.TClockTimebase">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:47 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="F:NationalInstruments.ModularInstruments.SystemServices.TimingServices.AdjustmentType.None">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:45 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.SynchronizationOption">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:48 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="F:NationalInstruments.ModularInstruments.SystemServices.TimingServices.SynchronizationOption.None">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:49 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="F:NationalInstruments.ModularInstruments.SystemServices.TimingServices.SynchronizationOption.AllowTClockDrift">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:48 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced">
+            <summary>
+            Provides advanced functionality for NI-TClk.</summary>
+            <threadsafety safety="unsafe"/>
+            <remarks>
+            This object provides advanced functionality to initialize and synchronize modular instruments.
+            </remarks>
+            <seealso cref="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SyncPulseSenderSyncPulseSource"/>
+            <seealso cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.SetupForSyncPulseSenderSynchronize(System.Double)"/>
+            <seealso cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.FinishSyncPulseSenderSynchronize(System.Double)"/>
+            <seealso cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.SynchronizeToSyncPulseSender(NationalInstruments.PrecisionTimeSpan)"/>
+            <lastupdated>9/16/2016 8:50:00 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.#ctor(NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock)">
+            <exclude/>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.SetupForSyncPulseSenderSynchronize(System.Double)">
+            <summary>
+            Configures the TClks on all devices and prepares a device, chosen either automatically by NI-TClk or manually when you set the 
+            <see cref="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SyncPulseSenderSyncPulseSource"/> property 
+            for a specific device, to send sync pulses to devices in the synchronization group.
+            </summary>
+            <param name="minTime">
+            Specifies the minimal TClk period, in seconds, for the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object to perform synchronization. Supported values are between 0.0 and 0.050 s.
+            </param>
+            <lastupdated>9/16/2016 8:50:09 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.SetupForSyncPulseSenderSynchronize(NationalInstruments.PrecisionTimeSpan)">
+            <summary>
+            Configures the TClks on all devices and prepares a device, chosen either automatically by NI-TClk or manually when you set the 
+            <see cref="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SyncPulseSenderSyncPulseSource"/> property 
+            for a specific device, to send sync pulses to devices in the synchronization group.
+            </summary>
+            <param name="minTime">
+            Specifies the minimal TClk period, in seconds, for the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object to perform synchronization. Supported values are between 0.0 and 0.050 s.
+            </param>
+            <lastupdated>9/16/2016 8:50:10 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.FinishSyncPulseSenderSynchronize(System.Double)">
+            <summary>
+            Finishes synchronizing the device responsible for sending sync pulses, as determined automatically by NI-TClk or manually when you set the
+             <see cref="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SyncPulseSenderSyncPulseSource"/> property for a specific device.
+            </summary>
+            <param name="minTime">
+            Specifies the minimal TClk period, in seconds, for the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object to perform synchronization. Supported values are between 0.0 and 0.050 s.
+            </param>
+            <lastupdated>9/16/2016 8:50:03 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.FinishSyncPulseSenderSynchronize(NationalInstruments.PrecisionTimeSpan)">
+            <summary>
+            Finishes synchronizing the device responsible for sending sync pulses, as determined automatically by NI-TClk or manually when you set the
+             <see cref="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SyncPulseSenderSyncPulseSource"/> property for a specific device.
+            </summary>
+            <param name="minTime">
+            Specifies the minimal TClk period, in seconds, for the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object to perform synchronization. Supported values are between 0.0 and 0.050 s.
+            </param>
+            <lastupdated>9/16/2016 8:50:04 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.SynchronizeToSyncPulseSender(NationalInstruments.PrecisionTimeSpan)">
+            <summary>
+            Synchronizes the other devices to the device responsible for sending sync pulses, as determined automatically by NI-TClk or manually when you set the
+             <see cref="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize.SyncPulseSenderSyncPulseSource"/> property for a specific device.
+            </summary>
+            <param name="minTime">
+            Specifies the minimal TClk period, in seconds, for the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object to perform synchronization. Supported values are between 0.0 and 0.050 s.
+            </param>
+            <lastupdated>9/16/2016 8:50:11 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.SyncronizeToSyncPulseSender(System.Double)">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:13 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.AdjustSyncPulseSenderTClockTimebase(NationalInstruments.PrecisionTimeSpan)">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:02 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.AdjustSyncPulseSenderTClockDivisors(NationalInstruments.PrecisionTimeSpan)">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:01 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.GetTClockAdjustmentForDistributedTClock(NationalInstruments.PrecisionTimeSpan,System.Double[],System.Double[])">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:06 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.FinishSyncPulseSenderSynchronizeWithAdjustmentType(NationalInstruments.PrecisionTimeSpan,NationalInstruments.ModularInstruments.SystemServices.TimingServices.AdjustmentType)">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:05 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.SynchronizeWithOptions(NationalInstruments.PrecisionTimeSpan,NationalInstruments.ModularInstruments.SystemServices.TimingServices.SynchronizationOption)">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:12 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced.GetTClockDriftInPPM(NationalInstruments.PrecisionTimeSpan)">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:07 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock">
+            <summary>
+            Represents the component that is
+            used to synchronize modular instruments.
+            </summary>
+            <threadsafety safety="unsafe"/>
+            <remarks>
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object holds a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection"/>.
+            Each item in the collection is a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object. The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>
+            object represents an <format type="monospace">ITClockSynchronizableDevice</format>. This <format type="monospace">ITClockSynchronizableDevice</format>  is
+            a Modular Instruments device that can be synchronized by TClk technology. 
+            </remarks>
+            <lastupdated>9/16/2016 8:49:47 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> class.
+            </summary>
+            <lastupdated>9/19/2016 2:54:12 PM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>False</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.#ctor(NationalInstruments.ModularInstruments.ITClockSynchronizableDevice[])">
+            <summary>
+            Initializes a new instance of the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> class.
+            </summary>
+            <param name="devices">
+            An array of <format type="monospace">ITClockSynchronizableDevice</format> objects.
+            </param>
+            <exception cref="T:System.ArgumentNullException">
+            Thrown when the devices object is <see langword="null"/>.
+            </exception>
+            <remarks>
+            Initializes a new instance of the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> class with the specified <format type="monospace">ITClockSynchronizableDevice</format>  collection.
+            </remarks>
+            <lastupdated>9/19/2016 2:55:44 PM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>False</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.DevicesToSynchronize">
+            <summary>
+            Gets the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection"/> held by the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object.
+            </summary>
+            <value>
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection"/>  collection held by the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object.
+            </value>
+            <lastupdated>9/16/2016 8:49:50 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Advanced">
+            <summary>
+            Gets an instance of <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced"/>.
+            </summary>
+            <value>
+            An instance of <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockAdvanced"/>.
+            </value>
+            <lastupdated>9/16/2016 8:49:49 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.IsDone">
+            <summary>
+            Gets a value indicating whether the operations initiated by <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Initiate"/> on the modular instrument(s) are complete.
+            </summary>
+            <value>
+             <see langword="true"/> if the operations initiated by <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Initiate"/> on the modular instrument(s) are complete; otherwise, <see langword="false"/>.
+            </value>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <lastupdated>9/16/2016 8:49:51 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.ConfigureForHomogeneousTriggers">
+            <summary>
+            Configures the properties required for the synchronization of device sessions with homogeneous triggers in a single PXI chassis or a single PC.
+            </summary>
+            <remarks>
+            For more information about how this method affects clocks and triggers, refer
+            to  the <format type="italics">NI-TClk Synchronization Help</format>.
+            </remarks>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <lastupdated>9/16/2016 8:49:53 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Synchronize">
+            <summary>
+            Synchronizes the TClk signals on the given sessions. </summary>
+            <remarks>
+            After the <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Synchronize"/> method executes, TClk signals from all sessions are synchronized.
+            For more information, refer
+            to the <format type="italics">NI-TClk Synchronization Help</format>.
+            </remarks>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <lastupdated>9/16/2016 8:49:55 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Synchronize(NationalInstruments.PrecisionTimeSpan)">
+            <summary>
+            Synchronizes the TClk signals on the given sessions. After <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Synchronize"/> executes, TClk signals from all sessions are synchronized.
+            </summary>
+            <param name="minTime">Minimal period of TClk, expressed in seconds.
+            Supported values are between 0.0 s and 0.050 s (50 ms).
+            Minimal period for a single chassis/PC is 200 ns.
+            If the specified value is less than 200 ns,
+            the driver automatically coerces <paramref name="minTime"/> to 200 ns.
+            For multi-chassis synchronization, adjust this value to account for
+            propagation delays through the various devices and cables. </param>
+            <remarks>
+             <Scopetag>
+            For more information, refer
+            to the <format type="italics">NI-TClk Synchronization Help</format>.
+            </Scopetag>
+            </remarks>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <lastupdated>9/16/2016 8:49:56 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Initiate">
+            <summary>
+            Initiates the specified acquisition or generation sessions.
+            </summary>
+            <remarks>
+            This method also processes any special requirements for synchronization.
+            For example, the session that exports the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/>-synchronized start trigger is not initiated until
+            the <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.Initiate"/> method initiates all the 
+            sessions that import the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/>-synchronized start trigger.
+            </remarks>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <lastupdated>9/16/2016 8:49:54 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.WaitUntilDone(NationalInstruments.PrecisionTimeSpan)">
+            <summary>Delays the execution of your program until the acquisitions and
+            generations corresponding to sessions are complete, or until the method returns
+            a timeout error.</summary>
+            <param name="timeout">Specifies the amount of time, in seconds, that the <see cref="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock.WaitUntilDone(NationalInstruments.PrecisionTimeSpan)"/> method waits for the sessions to complete. </param>
+            <remarks>
+             <Scopetag>
+            For more information, refer
+            to the <format type="italics">NI-TClk Synchronization Help</format>.
+            </Scopetag>
+            </remarks>
+            <exception cref="T:NationalInstruments.ModularInstruments.ModularInstrumentsException">
+            The underlying driver returned an error.
+            </exception>
+            <lastupdated>9/16/2016 8:49:58 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection">
+            <summary>
+            Represents a collection of <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> objects.
+            </summary>
+            <threadsafety safety="unsafe"/>
+            <remarks>
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClock"/> object holds a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection"/>.
+            Each item in the collection is a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object. The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>
+            object represents an <format type="monospace">ITClockSynchronizableDevice</format>. This <format type="monospace">ITClockSynchronizableDevice</format>  is
+            a modular instrument that can be synchronized by TClk technology.
+            </remarks>
+            <lastupdated>9/16/2016 8:50:14 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection"/> class.
+            </summary>
+            <lastupdated>9/16/2016 8:50:41 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="E:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.CollectionChanged">
+            <summary>
+            Occurs when an item is added, removed, or updated.
+            </summary>
+            <lastupdated>9/16/2016 8:50:42 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Item(NationalInstruments.ModularInstruments.ITClockSynchronizableDevice)">
+            <summary>
+            Gets the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object at the specified index.
+            </summary>
+            <value>
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>  object corresponding to the ITClockSynchronizableDevice.
+            </value>
+            <param name="device">
+            Zero-based index of the entry to access in the collection.
+            </param>
+            <returns>Returns the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>  object corresponding to the <format type="monospace">ITClockSynchronizableDevice</format>.
+            </returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+             <paramref name="device"/> is outside the valid range of indexes for the collection.
+            </exception>
+            <lastupdated>9/16/2016 8:50:23 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Item(System.Int32)">
+            <summary>
+            Gets the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object at the specified index.
+            </summary>
+            <value>
+            The <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>  object present at the specified index in the collection.
+            </value>
+            <param name="device">
+            Zero-based index of the entry to access in the collection.
+            </param>
+            <returns>
+            Returns the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/>  object corresponding to the index.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="device"/> value is null.
+            </exception>
+            <lastupdated>9/16/2016 8:50:22 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#Item(System.Int32)">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:21 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Add(NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize)">
+            <summary>
+            Adds an item to the end of the collection.
+            </summary>
+            <param name="device">
+             <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object to be added to the collection.
+            </param>
+            <returns>
+            The array index of the added item.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="device"/> value is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+             <paramref name="device"/> is already present in the collection.
+            </exception>
+            <lastupdated>9/16/2016 8:50:24 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.AddRange(NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize[])">
+            <summary>
+            Adds an array of elements to the end of the collection.
+            </summary>
+            <param name="device">
+            Array of <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> objects to be added to the collection.
+            </param>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="device"/> value is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+             <paramref name="device"/> is already present in the collection.
+            </exception>
+            <lastupdated>9/16/2016 8:50:26 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Add(NationalInstruments.ModularInstruments.ITClockSynchronizableDevice)">
+            <summary>
+            Adds an item to the end of the collection.
+            </summary>
+            <param name="device">
+             <format type="monospace">ITClockSynchronizableDevice</format> object to be added to the collection.
+            </param>
+            <returns>
+            The array index of the added item.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="device"/> value is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+             <paramref name="device"/> is already present in the collection.
+            </exception>
+            <lastupdated>9/16/2016 8:50:25 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.AddRange(NationalInstruments.ModularInstruments.ITClockSynchronizableDevice[])">
+            <summary>
+            Adds an array of elements to the end of the collection.
+            </summary>
+            <param name="device">
+            Array of <format type="monospace">ITClockSynchronizableDevice</format> objects to be added to the collection.
+            </param>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="device"/> value is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+             <paramref name="device"/> is already present in the collection.
+            </exception>
+            <lastupdated>9/16/2016 8:50:27 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#Add(System.Object)">
+            <summary>
+            Adds an item to the end of the collection.
+            </summary>
+            <param name="value">
+            Item to add to the collection.
+            </param>
+            <returns>
+            The array index of the added item.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="value"/> value is <see langword="null"/>.
+            </exception>
+            <lastupdated>9/16/2016 8:50:32 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Remove(NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize)">
+            <summary>
+            Removes the first occurrence of the specified device.
+            </summary>
+            <param name="device">
+            Device to remove from the collection.
+            </param>
+            <remarks>
+            The list elements after the removed element shift up to occupy the vacated spot. Because the list elements
+            are indexed, the indexes of the shifted elements are also updated.
+            </remarks>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="device"/> value is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <paramref name="device"/> is already present in the collection.
+            </exception>
+            <lastupdated>12/12/2006 9:45:49 AM</lastupdated>
+            <updatedby>Whitney Bates</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Remove(NationalInstruments.ModularInstruments.ITClockSynchronizableDevice)">
+            <summary>
+            Removes the first occurrence of the specified device.
+            </summary>
+            <param name="device">
+            Device to remove from the collection.
+            </param>
+            <remarks>
+            The list elements after the removed element shift up to occupy the vacated spot. Because the list elements
+            are indexed, the indexes of the shifted elements are also updated.
+            </remarks>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="device"/> value is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <paramref name="device"/> is already present in the collection.
+            </exception>
+            <lastupdated>12/12/2006 9:46:11 AM</lastupdated>
+            <updatedby>Whitney Bates</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#Remove(System.Object)">
+            <summary>
+            Removes the first occurrence of the specified device.
+            </summary>
+            <param name="value">
+            The object to remove from the collection.
+            </param>
+            <remarks>
+            The list elements that are after the removed element will shift up to occupy the vacated spot. Because the list elements
+            are indexed, the indexes of the shifted elements also are updated.
+            </remarks>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="value"/> is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+             <paramref name="value"/> is already present in the collection.
+            </exception>
+            <lastupdated>9/16/2016 8:50:37 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#RemoveAt(System.Int32)">
+            <summary>
+            Removes the item at the specified index.
+            </summary>
+            <param name="index">
+            Zero-based index of the item to remove.
+            </param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+             <paramref name="index"/> is not a valid index in the <see cref="T:System.Collections.IList"/>.
+            </exception>
+            <remarks>
+            The list elements that are after the removed element will shift up to occupy the vacated spot. Because the list elements
+            are indexed, the indexes of the shifted elements also are updated.
+            </remarks>
+            <lastupdated>9/16/2016 8:50:38 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Contains(NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize)">
+            <summary>
+            Returns whether the specified element is in the collection.
+            </summary>
+            <param name="device">
+             <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object to be located in the collection.
+            </param>
+            <returns>
+             <see langword="true"/> if the collection contains <paramref name="device"/>.
+            </returns>
+            <lastupdated>9/16/2016 8:50:28 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Contains(NationalInstruments.ModularInstruments.ITClockSynchronizableDevice)">
+            <summary>
+            Returns whether the specified element is in the collection.
+            </summary>
+            <param name="device">
+             <format type="monospace">ITClockSynchronizableDevice</format> object to be located in the collection.
+            </param>
+            <returns>
+             <see langword="true"/> if the collection contains <paramref name="device"/>.
+            </returns>
+            <lastupdated>9/16/2016 8:50:29 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#Contains(System.Object)">
+            <summary>
+            Returns if the specified element is in the collection.
+            </summary>
+            <param name="value">
+            The object to be located in the collection.
+            </param>
+            <returns>
+             <see langword="true"/> if the collection contains <paramref name="value"/>; otherwise, <see langword="false"/>.
+            </returns>
+            <lastupdated>9/16/2016 8:50:34 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Clear">
+            <summary>
+            Removes all items from the collection.
+            </summary>
+            <lastupdated>10/5/2006 1:51:13 PM</lastupdated>
+            <updatedby>NI</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#Clear">
+            <summary>
+            Removes all items from the collection.
+            </summary>
+            <lastupdated>9/16/2016 8:50:33 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Equals(System.Object)">
+            <summary>
+            Returns <see langword="true"/> if the specified object contains the same  <format type="monospace">ITClockSynchronizableDevice</format> devices as
+            the current collection.
+            </summary>
+            <param name="obj">
+            Object to compare with the current collection.
+            </param>
+            <returns>
+             <see langword="true"/> if the collection contains the same <format type="monospace">ITClockSynchronizableDevice</format> devices <paramref name="obj"/> parameter.
+            </returns>
+            <lastupdated>9/16/2016 8:50:30 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.GetHashCode">
+            <summary>
+            Generates a hash value that can be used to uniquely identify a particular <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection"/>
+            object.
+            </summary>
+            <returns>
+            A hash value that uniquely identifies the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection"/> object.
+            </returns>
+            <lastupdated>11/27/2006 10:48:09 AM</lastupdated>
+            <updatedby>Whitney Bates</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Count">
+            <summary>
+            Gets the number of elements in the collection, which is equal to the number of
+            <see cref="T:NationalInstruments.ModularInstruments.ITClockSynchronizableDevice"/> objects to be synchronized
+            by TClk.
+            </summary>
+            <value>
+            The number of elements contained in the collection,  which is equal to the number of <see cref="T:NationalInstruments.ModularInstruments.ITClockSynchronizableDevice"/> objects to be synchronized
+            by TClk.
+            </value>
+            <lastupdated>9/19/2016 12:46:47 PM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>False</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#ICollection#Count">
+            <summary>
+            Gets the number of elements in the collection.
+            </summary>
+            <value>
+            The number of elements contained in the collection.
+            </value>
+            <lastupdated>9/16/2016 8:50:16 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#ICollection#IsSynchronized">
+            <summary>
+            Gets a value indicating whether the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection"/> is
+            synchronized (thread-safe).
+            </summary>
+            <value>
+             <see langword="true"/> if access to the <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection"/> is
+            synchronized (thread-safe); otherwise <see langword="false"/>.
+            </value>
+            <lastupdated>9/16/2016 8:50:17 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#ICollection#SyncRoot">
+            <summary>
+            Gets an object that you can use to synchronize access to the collection.
+            </summary>
+            <value>
+            An object that you can use to synchronize access to the collection.
+            </value>
+            <lastupdated>9/16/2016 8:50:18 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#ICollection#CopyTo(System.Array,System.Int32)">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:31 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.CopyTo(NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize[],System.Int32)">
+            <summary>
+             Copies the collection to an array or a portion of an array.
+             </summary>
+            <param name="destinationArray">
+             Destination array for the collection.
+             </param>
+            <param name="index">
+             Index in the target array at which you want to begin copying the collection to.
+             </param>
+            <exception cref="T:System.ArgumentException">
+                <para>
+                    <paramref name="destinationArray"/> is multidimensional.
+             </para>
+                <para>
+             -or-
+             </para>
+                <para>
+                    <paramref name="index"/> is greater than or equal to the array length.
+             </para>
+                <para>
+             -or-
+             </para>
+                <para>
+             The number of elements in the collection is greater than the available space between
+             <paramref name="index"/> and the end of <paramref name="destinationArray"/>.
+             </para>
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="destinationArray"/> is <see langword="null"/>.
+             </exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+                <paramref name="index"/> is less than zero.
+             </exception>
+            <lastupdated>11/27/2006 10:48:01 AM</lastupdated>
+            <updatedby>Whitney Bates</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IEnumerable#GetEnumerator">
+            <exclude/>
+            <lastupdated>9/16/2016 8:50:31 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#IsFixedSize">
+            <summary>
+            Gets a value indicating whether the collection has a fixed size.
+            </summary>
+            <value>
+             <see langword="true"/> if the collection has a fixed size; otherwise <see langword="false"/>.
+            </value>
+            <lastupdated>9/16/2016 8:50:19 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#IndexOf(System.Object)">
+            <summary>
+            Returns the zero-based index of the first occurrence of an item in the collection.
+            </summary>
+            <param name="value">
+            Item to search for.
+            </param>
+            <returns>
+            Index of the item. If the item is not found, returns -1.
+            </returns>
+            <exception cref="T:System.ArgumentException">
+             <paramref name="value"/> is not of type <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> or <format type="monospace">ITClockSynchronizableDevice</format>.
+            </exception>
+            <lastupdated>9/16/2016 8:50:35 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.IndexOf(NationalInstruments.ModularInstruments.ITClockSynchronizableDevice)">
+            <summary>
+            Returns the zero-based index of the first occurrence of an item in the collection.
+            </summary>
+            <param name="value">
+            Item to search for.
+            </param>
+            <returns>
+            Index of the item. If the item is not found, returns -1.
+            </returns>
+            <lastupdated>9/16/2016 8:50:39 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.IndexOf(NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize)">
+            <summary>
+            Returns the zero-based index of the first occurrence of an item in the collection.
+            </summary>
+            <param name="value">
+            Item to search for.
+            </param>
+            <returns>
+            Index of the item. If the item is not found, returns -1.
+            </returns>
+            <lastupdated>9/16/2016 8:50:39 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#Insert(System.Int32,System.Object)">
+            <summary>
+            Inserts an item into the collection at the specified index.
+            </summary>
+            <param name="index">
+            Index to insert the item at.
+            </param>
+            <param name="value">
+            Item to insert into the collection.
+            </param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+             <paramref name="index"/> is not a valid index in the <see cref="T:System.Collections.IList"/>.
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="value"/> is <see langword="null"/>.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+             <paramref name="value"/> is not of type <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> or <format type="monospace">ITClockSynchronizableDevice</format>.
+            </exception>
+            <remarks>
+            The list elements that are after the removed element will shift up to occupy the vacated spot. Because the list elements
+            are indexed, the indexes of the shifted elements also are updated.
+            </remarks>
+            <lastupdated>9/16/2016 8:50:36 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Insert(System.Int32,NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize)">
+            <summary>
+            Inserts a <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object
+             into the collection at the specified index.
+            </summary>
+            <param name="index">
+            Index at which to insert the item.
+            </param>
+            <param name="deviceToSynchronize">
+             <see cref="T:NationalInstruments.ModularInstruments.SystemServices.TimingServices.DeviceToSynchronize"/> object to insert into the collection.
+            </param>
+            <exception cref="T:System.ArgumentNullException">
+             <paramref name="deviceToSynchronize"/> is <see langword="null"/>.
+             </exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+             <paramref name="index"/> is not a valid index.
+            </exception>
+            <remarks>
+            The list elements after the inserted element shift down in the list. Because the list elements
+            are indexed, the indexes of the shifted elements also are updated.
+            </remarks>
+            <lastupdated>9/16/2016 8:50:40 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="M:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.Insert(System.Int32,NationalInstruments.ModularInstruments.ITClockSynchronizableDevice)">
+            <summary>
+            Inserts a <see cref="T:NationalInstruments.ModularInstruments.ITClockSynchronizableDevice"/> object
+             into the collection at the specified index.
+            </summary>
+            <param name="index">
+            Index to insert the item at.
+            </param>
+            <param name="device">
+                <see cref="T:NationalInstruments.ModularInstruments.ITClockSynchronizableDevice"/> object to insert into the collection.
+            </param>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="device"/> is <see langword="null"/>.
+             </exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+                <paramref name="index"/> is not a valid index.
+            </exception>
+            <remarks>
+            The list elements after the inserted element shift down in the list. Because the list elements
+            are indexed, the indexes of the shifted elements also are updated.
+            </remarks>
+            <lastupdated>11/27/2006 10:48:18 AM</lastupdated>
+            <updatedby>Whitney Bates</updatedby>
+            <approved>True</approved>
+        </member>
+        <member name="P:NationalInstruments.ModularInstruments.SystemServices.TimingServices.TClockSynchronizableDevicesCollection.System#Collections#IList#IsReadOnly">
+            <summary>
+            Gets a value indicating whether the collection is read-only.
+            </summary>
+            <value>
+             <see langword="true"/> if the collection is read-only; otherwise <see langword="false"/>.
+            </value>
+            <lastupdated>9/16/2016 8:50:20 AM</lastupdated>
+            <updatedby>sheien</updatedby>
+            <approved>True</approved>
+        </member>
+    </members>
+</doc>

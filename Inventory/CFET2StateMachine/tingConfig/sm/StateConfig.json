@@ -1,0 +1,9 @@
+{
+  "States":[{"StateNo":0, "StateName":"Idle","DefaultNs":0,"Transitions":[{"TransitionName":"goPre1","ConditonExpr":"start==1","NextState":1}]},
+	{"StateNo":1, "StateName":"Pre1","DefaultNs":1,"Transitions":[{"TransitionName":"goPre2","ConditonExpr":"temp==100","NextState":2},{"TransitionName":"Reset","ConditonExpr":"reset==1","NextState":0}]},
+	{"StateNo":2, "StateName":"Pre2","DefaultNs":2,"Transitions":[{"TransitionName":"goPre3","ConditonExpr":"charge==0","NextState":3},{"TransitionName":"Reset","ConditonExpr":"reset==1","NextState":0}]},
+	{"StateNo":3, "StateName":"Pre3","DefaultNs":3,"Transitions":[{"TransitionName":"goPre4","ConditonExpr":"arm==0","NextState":4},{"TransitionName":"Reset","ConditonExpr":"reset==1","NextState":0}]},
+	{"StateNo":4, "StateName":"Pre4","DefaultNs":4,"Transitions":[{"TransitionName":"goReady","ConditonExpr":"sccharge==0","NextState":5},{"TransitionName":"Reset","ConditonExpr":"reset==1","NextState":0}]},
+	{"StateNo":5, "StateName":"Ready","DefaultNs":5,"Transitions":[{"TransitionName":"goFire","ConditonExpr":"fire==1","NextState":6},{"TransitionName":"Reset","ConditonExpr":"reset==1","NextState":0}]},
+	{"StateNo":6, "StateName":"Fire","DefaultNs":6,"Transitions":[{"TransitionName":"goIdle","ConditonExpr":"centrifire==1||reset==1","NextState":0},{"TransitionName":"Reset","ConditonExpr":"reset==1","NextState":0}]}],
+  "CurrentState":0}

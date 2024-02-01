@@ -1,0 +1,10 @@
+{
+    "TransExcute":
+    {
+		 "InitDefault":"MyHub.Set(\"/relay/Resource/Daq/Reset/0\");MyHub.Set(\"/relay/Resource/Daq/Debug/0\");MyHub.Set(\"/relay/Resource/Daq/GS/0\");MyHub.Set(\"/relay/Resource/Daq/Arm/0\");",
+		"goArming":"MyHub.Invoke(\"/card0/TryArm\");MyHub.Invoke(\"/card1/TryArm\");MyHub.Invoke(\"/card2/TryArm\");",
+		"goReady":"MyHub.Set(\"/relay/Resource/Daq/Arm/0\");",
+		"goFinish":"MyHub.Invoke(\"/MdsUploader/StartUploadAll/0/0\");",
+		"ResetToIdle":"MyHub.Set(\"/relay/Resource/Daq/Reset/0\");MyHub.Set(\"/relay/Resource/Daq/Arm/0\");"
+    }
+}

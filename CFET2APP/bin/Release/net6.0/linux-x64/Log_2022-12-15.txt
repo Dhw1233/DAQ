@@ -1,0 +1,20 @@
+2022/12/15 22:51:06.927 ResourceThing Info 
+tryinit:customView
+2022/12/15 22:51:07.353 ResourceThing Info 
+tryinit:WsEvent
+2022/12/15 22:51:10.368 ResourceThing Info 
+tryinit:relay
+2022/12/15 22:51:10.368 DynamicLoad Info 
+AddThing:relay
+2022/12/15 22:51:10.368 NancyModule Info 
+NancyTaskRun 
+2022/12/15 22:51:10.368 Hub Info 
+customView Started.
+2022/12/15 22:51:10.392 Hub Info 
+WsEvent Started.
+2022/12/15 22:51:10.392 Hub Info 
+relay Started.
+2022/12/15 22:51:10.392 ResourceThing Info 
+tryinit:root
+2022/12/15 22:51:10.624 NancyModule Info 
+Running on http://localhost:8002/

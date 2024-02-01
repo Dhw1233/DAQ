@@ -1,0 +1,242 @@
+2023/03/07 14:52:37.224 ResourceThing Info 
+tryinit:customView
+2023/03/07 14:52:37.301 ResourceThing Info 
+tryinit:WsEvent
+2023/03/07 14:52:40.390 ResourceThing Info 
+tryinit:ExampleThing
+2023/03/07 14:52:40.390 DynamicLoad Info 
+AddThing:ExampleThing
+2023/03/07 14:52:40.390 ResourceThing Info 
+tryinit:relay
+2023/03/07 14:52:40.390 DynamicLoad Info 
+AddThing:relay
+2023/03/07 14:52:40.390 NancyModule Info 
+NancyTaskRun 
+2023/03/07 14:52:40.390 Hub Info 
+customView Started.
+2023/03/07 14:52:40.421 Hub Info 
+WsEvent Started.
+2023/03/07 14:52:40.421 Hub Info 
+ExampleThing Started.
+2023/03/07 14:52:40.421 Hub Info 
+relay Started.
+2023/03/07 14:52:40.459 ResourceThing Info 
+tryinit:root
+2023/03/07 14:52:41.052 NancyModule Info 
+Running on http://localhost:8002/
+2023/03/07 19:16:42.303 ResourceThing Info 
+tryinit:customView
+2023/03/07 19:16:42.359 ResourceThing Info 
+tryinit:WsEvent
+2023/03/07 19:16:44.556 ResourceThing Info 
+tryinit:ExampleThing
+2023/03/07 19:16:44.556 DynamicLoad Info 
+AddThing:ExampleThing
+2023/03/07 19:16:44.556 ResourceThing Info 
+tryinit:relay
+2023/03/07 19:16:44.556 DynamicLoad Info 
+AddThing:relay
+2023/03/07 19:16:44.556 NancyModule Info 
+NancyTaskRun 
+2023/03/07 19:16:44.556 Hub Info 
+customView Started.
+2023/03/07 19:16:44.649 Hub Info 
+WsEvent Started.
+2023/03/07 19:16:44.649 Hub Info 
+ExampleThing Started.
+2023/03/07 19:16:44.649 Hub Info 
+relay Started.
+2023/03/07 19:16:44.649 ResourceThing Info 
+tryinit:root
+2023/03/07 19:16:45.154 NancyModule Info 
+Running on http://localhost:8002/
+2023/03/07 19:17:15.048 ResourceThing Info 
+tryinit:customView
+2023/03/07 19:17:15.088 ResourceThing Info 
+tryinit:WsEvent
+2023/03/07 19:17:16.518 ResourceThing Info 
+tryinit:ExampleThing
+2023/03/07 19:17:16.518 DynamicLoad Info 
+AddThing:ExampleThing
+2023/03/07 19:17:16.518 ResourceThing Info 
+tryinit:relay
+2023/03/07 19:17:16.518 DynamicLoad Info 
+AddThing:relay
+2023/03/07 19:17:16.523 NancyModule Info 
+NancyTaskRun 
+2023/03/07 19:17:16.523 Hub Info 
+customView Started.
+2023/03/07 19:17:16.545 Hub Info 
+WsEvent Started.
+2023/03/07 19:17:16.545 Hub Info 
+ExampleThing Started.
+2023/03/07 19:17:16.545 Hub Info 
+relay Started.
+2023/03/07 19:17:16.545 ResourceThing Info 
+tryinit:root
+2023/03/07 19:17:16.966 NancyModule Info 
+Running on http://localhost:8011/
+2023/03/07 19:17:48.015 NancyModule Info 
+return index.html
+2023/03/07 19:17:48.106 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.243 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.291 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.291 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.306 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.306 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.322 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.322 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.339 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.339 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.356 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.356 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.368 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.368 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.391 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.391 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.402 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.402 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.402 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.416 NancyModule Info 
+return index.html
+2023/03/07 19:17:49.416 NancyModule Info 
+return index.html
+2023/03/07 19:17:53.958 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.012 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.012 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.025 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.025 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.043 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.043 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.058 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.058 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.071 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.071 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.086 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.086 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.086 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.105 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.105 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.117 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.117 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.117 NancyModule Info 
+return index.html
+2023/03/07 19:17:54.133 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.163 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.172 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.181 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.181 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.195 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.195 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.210 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.210 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.210 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.230 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.230 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.248 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.248 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.269 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.275 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.275 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.275 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.291 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.291 NancyModule Info 
+return index.html
+2023/03/07 19:17:59.291 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.336 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.336 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.352 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.352 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.352 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.371 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.371 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.371 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.387 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.387 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.404 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.404 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.418 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.418 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.432 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.432 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.432 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.448 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.448 NancyModule Info 
+return index.html
+2023/03/07 19:18:29.448 NancyModule Info 
+return index.html

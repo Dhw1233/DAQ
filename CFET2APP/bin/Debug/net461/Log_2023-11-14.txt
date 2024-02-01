@@ -1,0 +1,68 @@
+2023/11/14 16:49:58.609 ResourceThing Info 
+tryinit:WsEvent
+2023/11/14 16:50:04.064 ResourceThing Info 
+tryinit:Daq
+2023/11/14 16:50:04.088 ResourceThing Info 
+tryinit:Dev1
+2023/11/14 16:50:04.088 ResourceThing Info 
+tryinit:Dev2
+2023/11/14 16:50:04.088 ResourceThing Info 
+tryinit:Dev3
+2023/11/14 16:50:04.105 ResourceThing Info 
+tryinit:MdsUploader
+2023/11/14 16:50:04.105 ResourceThing Info 
+tryinit:relay
+2023/11/14 16:50:04.110 ResourceThing Info 
+tryinit:customView
+2023/11/14 16:50:04.110 NancyModule Info 
+NancyTaskRun 
+2023/11/14 16:50:04.135 Hub Info 
+WsEvent Started.
+2023/11/14 16:50:04.135 Hub Info 
+Daq Started.
+2023/11/14 16:50:04.135 Hub Info 
+Dev1 Started.
+2023/11/14 16:50:04.135 Hub Info 
+Dev2 Started.
+2023/11/14 16:50:04.135 Hub Info 
+Dev3 Started.
+2023/11/14 16:50:04.135 Hub Info 
+MdsUploader Started.
+2023/11/14 16:50:04.135 Hub Info 
+relay Started.
+2023/11/14 16:50:04.135 Hub Info 
+customView Started.
+2023/11/14 16:50:04.135 ResourceThing Info 
+tryinit:root
+2023/11/14 16:50:04.634 NancyModule Info 
+Running on http://localhost:8001/
+2023/11/14 16:50:18.422 CustomView Info 
+./CustomView\DAQ.json
+2023/11/14 17:17:41.821 ResourceThing Info 
+tryinit:WsEvent
+2023/11/14 17:18:10.041 ResourceThing Info 
+tryinit:WsEvent
+2023/11/14 17:18:11.832 ResourceThing Info 
+tryinit:card0
+2023/11/14 17:18:11.832 ResourceThing Info 
+tryinit:card1
+2023/11/14 17:18:11.832 ResourceThing Info 
+tryinit:card2
+2023/11/14 17:18:11.832 ResourceThing Info 
+tryinit:customView
+2023/11/14 17:18:11.845 NancyModule Info 
+NancyTaskRun 
+2023/11/14 17:18:11.864 Hub Info 
+WsEvent Started.
+2023/11/14 17:18:11.864 Hub Info 
+card0 Started.
+2023/11/14 17:18:11.864 Hub Info 
+card1 Started.
+2023/11/14 17:18:11.864 Hub Info 
+card2 Started.
+2023/11/14 17:18:11.864 Hub Info 
+customView Started.
+2023/11/14 17:18:11.864 ResourceThing Info 
+tryinit:root
+2023/11/14 17:18:12.302 NancyModule Info 
+Running on http://localhost:8001/

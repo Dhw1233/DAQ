@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JTextDAQDataFileOperator.Interface</name>
+    </assembly>
+    <members>
+        <member name="T:JTextDAQDataFileOperator.Interface.IDataFileFactoty">
+            <summary>
+            获取数据处理类的实例
+            </summary>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataFileFactoty.GetReader(System.String,System.String)">
+            <summary>
+            通过已经存在的数据文件和配置文件获取数据的类
+            </summary>
+            <param name="dataFileDirectory">数据文件所在文件夹，需要分隔符结尾</param>
+            <param name="name">采集文件名称不带后缀</param>
+            <returns></returns>
+        </member>
+        <!-- 对于成员“M:JTextDAQDataFileOperator.Interface.IDataFileFactoty.GetWriter(System.String,System.String,System.Int32,System.Double,System.Boolean,System.Double)”忽略有格式错误的 XML 注释 -->
+        <member name="T:JTextDAQDataFileOperator.Interface.IDataReader">
+            <summary>
+            读已经存在的数据文件
+            </summary>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFile(System.Int32,System.UInt64,System.UInt64)">
+            <summary>
+            依据采集点获取数据
+            </summary>
+            <param name="channelNo">通道号</param>
+            <param name="start">开始点</param>
+            <param name="length">读取长度</param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFile_TimeAxis(System.Int32,System.UInt64,System.UInt64)">
+            <summary>
+            对应方法的时间轴
+            </summary>
+            <param name="channelNo"></param>
+            <param name="start"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFileComplex(System.Int32,System.UInt64,System.UInt64,System.UInt64,System.UInt64)">
+            <summary>
+            依据采集点获取数据，支持复杂查找，大数据可能比较慢
+            </summary>
+            <param name="channelNo">通道号</param>
+            <param name="start">开始点</param>
+            <param name="stride">每次跳过多少个点</param>
+            <param name="count">读多少次</param>
+            <param name="block">每次读取多少点</param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFileComplex_TimeAxis(System.Int32,System.UInt64,System.UInt64,System.UInt64,System.UInt64)">
+            <summary>
+            对应方法的时间轴
+            </summary>
+            <param name="channelNo"></param>
+            <param name="start"></param>
+            <param name="stride"></param>
+            <param name="count"></param>
+            <param name="block"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFileComplexRam(System.Int32,System.UInt64,System.UInt64,System.UInt64,System.UInt64)">
+            <summary>
+            从 start 到最后一个点整个从硬盘中读出来，再从内存中计算 stride 等参数，和 5 参数 LoadDataFromFile 一样的功能但速度更快，不过更耗内存 
+            </summary>
+            <param name="channelNo"></param>
+            <param name="start"></param>
+            <param name="stride"></param>
+            <param name="count"></param>
+            <param name="block"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFileComplexRam_TimeAxis(System.Int32,System.UInt64,System.UInt64,System.UInt64,System.UInt64)">
+            <summary>
+            对应方法的时间轴
+            </summary>
+            <param name="channelNo"></param>
+            <param name="start"></param>
+            <param name="stride"></param>
+            <param name="count"></param>
+            <param name="block"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFileByTime(System.Int32,System.Double,System.Double,System.UInt64)">
+            <summary>
+            依据采集时间获取数据
+            </summary>
+            /// <param name="channelNo">通道号</param>
+            <param name="startTime">开始时间，依据 IDataWriter 中的开始时间</param>
+            <param name="endTime">结束时间，如果和开始时间相同则根据点数</param>
+            <param name="stride">读取点之间的跨越，和另外几个方法的 stride 参数含义相同</param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFileByTime_TimeAxis(System.Int32,System.Double,System.Double,System.UInt64)">
+            <summary>
+            对应方法的时间轴
+            </summary>
+            <param name="channelNo"></param>
+            <param name="startTime"></param>
+            <param name="endTime"></param>
+            <param name="stride"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFileByTimeFuzzy(System.Int32,System.Double,System.Double,System.UInt64)">
+            <summary>
+            依据采集时间获取数据，数据是时间轴均匀的，所以数据大概比 count 多一些
+            </summary>
+            <param name="channelNo">通道号</param>
+            <param name="startTime">开始时间，依据 IDataWriter 中的开始时间</param>
+            <param name="endTime">结束时间，如果和开始时间相同则根据点数</param>
+            <param name="count">两个时间点中间要多少个点，由于需要保持时间轴均匀所以返回结果会 >= count 但最接近</param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.LoadDataFromFileByTimeFuzzy_TimeAxis(System.Int32,System.Double,System.Double,System.UInt64)">
+            <summary>
+            对应方法的时间轴
+            </summary>
+            <param name="channelNo"></param>
+            <param name="startTime"></param>
+            <param name="endTime"></param>
+            <param name="count"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.ChannelCount">
+            <summary>
+            获取通道总数
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.SampleCount">
+            <summary>
+            获取每通道采样数
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.SampleRate">
+            <summary>
+            获取采样率
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.StartTime">
+            <summary>
+            获取开始时间
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.CreateTime">
+            <summary>
+            获取文件创建时间
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.Metadata">
+            <summary>
+            获取Metadata类
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataReader.AllDataFiles">
+            <summary>
+            获取所有文件名，带后缀不带路径
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:JTextDAQDataFileOperator.Interface.IDataWriter">
+            <summary>
+            写新的数据文件
+            </summary>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataWriter.AcceptNewData(System.Double[0:,0:])">
+            <summary>
+            获取采集数据
+            </summary>
+            <param name="data">每次来的数据，执行多次直到数据流完毕</param>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataWriter.FinishWrite">
+            <summary>
+            数据流完毕，结束传输，等待数据写入硬盘后结束
+            </summary>
+        </member>
+        <member name="M:JTextDAQDataFileOperator.Interface.IDataWriter.FullPathOfAllDataFiles">
+            <summary>
+            获取所有采集文件完整路径
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:JTextDAQDataFileOperator.Interface.Metadata">
+            <summary>
+            所有元数据
+            </summary>
+        </member>
+        <member name="P:JTextDAQDataFileOperator.Interface.Metadata.ChannelCount">
+            <summary>
+            通道总数
+            </summary>
+        </member>
+        <member name="P:JTextDAQDataFileOperator.Interface.Metadata.SampleCount">
+            <summary>
+            每通道采样数
+            </summary>
+        </member>
+        <member name="P:JTextDAQDataFileOperator.Interface.Metadata.SampleRate">
+            <summary>
+            采样率
+            </summary>
+        </member>
+        <member name="P:JTextDAQDataFileOperator.Interface.Metadata.StartTime">
+            <summary>
+            开始时间
+            </summary>
+        </member>
+        <member name="P:JTextDAQDataFileOperator.Interface.Metadata.CreateTime">
+            <summary>
+            文件创建时间
+            </summary>
+        </member>
+    </members>
+</doc>
